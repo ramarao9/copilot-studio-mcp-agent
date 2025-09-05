@@ -1,0 +1,296 @@
+[
+  {
+    "ProductID": 1,
+    "Title": "Excellent ultrabook for business",
+    "Description": "The Dell XPS 13 is incredibly portable and perfect for business travel. Battery life is outstanding and the build quality is top-notch.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 1,
+    "Title": "Great performance, minor keyboard issues",
+    "Description": "Love the speed and display quality, but the keyboard feels a bit cramped for long typing sessions.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 2,
+    "Title": "Perfect for creative work",
+    "Description": "The M2 Pro chip handles video editing and 3D rendering flawlessly. The display is stunning with accurate colors.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 2,
+    "Title": "Expensive but worth it",
+    "Description": "High price point but the performance and build quality justify the cost. Battery life is impressive.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 2,
+    "Title": "MacOS learning curve",
+    "Description": "Great hardware but took time to adapt from Windows. Overall satisfied with the performance.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 3,
+    "Title": "Solid business laptop",
+    "Description": "Reliable and secure for enterprise use. Good performance for office tasks and video calls.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 3,
+    "Title": "Durable and practical",
+    "Description": "Built to last with excellent security features. Not the most exciting but gets the job done.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 4,
+    "Title": "Gaming powerhouse",
+    "Description": "Runs all modern games at high settings. The RGB lighting and performance are incredible.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 4,
+    "Title": "Great for gaming and work",
+    "Description": "Versatile machine that handles both gaming and productivity tasks excellently.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 4,
+    "Title": "Fan noise can be loud",
+    "Description": "Excellent performance but the cooling fans get quite loud under heavy load.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 5,
+    "Title": "Premium business laptop",
+    "Description": "The ThinkPad build quality is legendary. Keyboard is excellent for typing all day.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 5,
+    "Title": "Lightweight and durable",
+    "Description": "Perfect balance of portability and performance. The carbon fiber build feels premium.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 6,
+    "Title": "Great gaming monitor",
+    "Description": "Smooth 144Hz gaming with excellent color reproduction. G-Sync works perfectly.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 6,
+    "Title": "Good value for gaming",
+    "Description": "Solid gaming monitor with good response times. Some backlight bleeding in dark scenes.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 6,
+    "Title": "Perfect for competitive gaming",
+    "Description": "Low input lag and high refresh rate make this ideal for FPS games.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 7,
+    "Title": "Excellent for productivity",
+    "Description": "4K resolution with USB-C hub functionality makes this perfect for work setups.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 7,
+    "Title": "Great color accuracy",
+    "Description": "Colors are vibrant and accurate out of the box. USB-C charging is convenient.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 8,
+    "Title": "Professional quality display",
+    "Description": "Factory calibration saves time. Perfect for photo and video editing work.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 8,
+    "Title": "Good value for professionals",
+    "Description": "Solid monitor for creative work at a reasonable price point.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 8,
+    "Title": "Reliable and accurate",
+    "Description": "Consistent performance and good build quality. Stand adjustment could be better.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 9,
+    "Title": "Immersive gaming experience",
+    "Description": "The curved design and high refresh rate create an amazing gaming experience.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 9,
+    "Title": "Beautiful QLED display",
+    "Description": "Colors are incredibly vibrant. 240Hz makes everything buttery smooth.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 10,
+    "Title": "Professional grade monitor",
+    "Description": "Excellent for design work with Thunderbolt connectivity. KVM feature is useful.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 10,
+    "Title": "Premium but expensive",
+    "Description": "Top-tier features but the price is quite high compared to alternatives.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 11,
+    "Title": "Premium gaming keyboard",
+    "Description": "Cherry MX switches feel amazing. RGB lighting is customizable and bright.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 11,
+    "Title": "Great for gaming and typing",
+    "Description": "Macro keys are useful for gaming. Build quality is excellent.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 11,
+    "Title": "Expensive but worth it",
+    "Description": "High price but the features and build quality justify the cost.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 12,
+    "Title": "Excellent for productivity",
+    "Description": "Smart backlighting adapts well to lighting conditions. Multi-device switching is seamless.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 12,
+    "Title": "Comfortable typing experience",
+    "Description": "Keys have good feedback and the wireless connection is stable.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 13,
+    "Title": "Great compact keyboard",
+    "Description": "Hot-swappable switches are a nice feature. Good build quality for the price.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 13,
+    "Title": "Perfect size and features",
+    "Description": "Compact layout saves desk space. Wireless connectivity works flawlessly.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 13,
+    "Title": "Good entry mechanical keyboard",
+    "Description": "Nice introduction to mechanical keyboards without breaking the bank.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 14,
+    "Title": "Professional quality keyboard",
+    "Description": "Cherry MX Blue switches provide excellent tactile feedback. Built like a tank.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 14,
+    "Title": "Great for office use",
+    "Description": "Switches might be too loud for open offices but great for home use.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 15,
+    "Title": "Low profile gaming excellence",
+    "Description": "Optical switches are incredibly fast. RGB lighting looks premium.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 15,
+    "Title": "Expensive but innovative",
+    "Description": "Great features but the price is quite high for a keyboard.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 16,
+    "Title": "Perfect productivity mouse",
+    "Description": "MagSpeed scrolling is a game-changer. Multi-device connectivity works seamlessly.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 16,
+    "Title": "Excellent ergonomics",
+    "Description": "Comfortable for long work sessions. Battery life is outstanding.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 16,
+    "Title": "Worth the investment",
+    "Description": "Premium price but the features and comfort justify the cost.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 17,
+    "Title": "Great gaming mouse",
+    "Description": "30K DPI sensor is incredibly precise. Ergonomic design fits perfectly in hand.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 17,
+    "Title": "Excellent wireless performance",
+    "Description": "No lag or connectivity issues. Battery life exceeds expectations.",
+    "Rating": 5
+  },
+  {
+    "ProductID": 18,
+    "Title": "Unique dual sensor system",
+    "Description": "The dual sensor technology is innovative. Customizable weight is a nice touch.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 18,
+    "Title": "Good for competitive gaming",
+    "Description": "Accurate tracking and good build quality. RGB lighting is vibrant.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 18,
+    "Title": "Solid gaming mouse",
+    "Description": "Performs well in games but software could be more user-friendly.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 19,
+    "Title": "Precision and reliability",
+    "Description": "Works perfectly on all surfaces including glass. Bluetooth connectivity is stable.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 19,
+    "Title": "Good for office work",
+    "Description": "Comfortable for daily use with good precision for productivity tasks.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 20,
+    "Title": "Great FPS gaming mouse",
+    "Description": "Sniper button is useful for precise aiming. 18K DPI is more than enough.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 20,
+    "Title": "Good value gaming mouse",
+    "Description": "Solid performance at a reasonable price. Build quality could be better.",
+    "Rating": 4
+  },
+  {
+    "ProductID": 20,
+    "Title": "Perfect for competitive gaming",
+    "Description": "Low latency and high accuracy make this ideal for FPS games.",
+    "Rating": 5
+  }
+]

@@ -1,0 +1,47 @@
+swagger: '2.0'
+info:
+  title: MCP Server
+  description: >-
+    This MCP Server will work with Streamable HTTP and is meant to work with
+    Microsoft Copilot Studio
+  version: 1.0.0
+host: FUNC_NAME.azurewebsites.net
+basePath: /runtime/webhooks/mcp
+schemes:
+  - https
+consumes: []
+produces: []
+paths:
+  /:
+    post:
+      summary: Invoke Product MCP
+      x-ms-agentic-protocol: mcp-streamable-1.0
+      operationId: InvokeMCP
+      responses:
+        '200':
+          description: Success
+definitions: {}
+parameters: {}
+responses: {}
+securityDefinitions:
+  oauth2-auth:
+    type: oauth2
+    flow: accessCode
+    tokenUrl: https://login.windows.net/common/oauth2/authorize
+    scopes:
+      CLIENT_ID/.default: CLIENT_ID/.default
+    authorizationUrl: https://login.microsoftonline.com/common/oauth2/authorize
+  oAuthClientCredentials:
+    type: oauth2
+    flow: application
+    tokenUrl: https://login.windows.net/common/oauth2/authorize
+    scopes:
+      CLIENT_ID/.default: CLIENT_ID/.default
+security:
+  - oauth2-auth:
+      - CLIENT_ID/.default
+  - oAuthClientCredentials:
+      - CLIENT_ID/.default
+  - certOauth:
+      - CLIENT_ID/.default
+tags: []

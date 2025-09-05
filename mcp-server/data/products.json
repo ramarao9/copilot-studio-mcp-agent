@@ -1,0 +1,162 @@
+[
+  {
+    "Id": 1,
+    "Name": "Dell XPS 13",
+    "Description": "Ultra-portable laptop with 13.3-inch display, Intel Core i7 processor, 16GB RAM, 512GB SSD",
+    "Price": 1299.99,
+    "Tags": ["ultrabook", "portable", "business", "premium"],
+    "Category": "Laptops"
+  },
+  {
+    "Id": 2,
+    "Name": "MacBook Pro 14-inch",
+    "Description": "Powerful laptop with M2 Pro chip, 14-inch Liquid Retina XDR display, 16GB unified memory, 1TB SSD",
+    "Price": 2499.99,
+    "Tags": ["apple", "professional", "creative", "high-performance"],
+    "Category": "Laptops"
+  },
+  {
+    "Id": 3,
+    "Name": "HP EliteBook 840 G9",
+    "Description": "Business laptop with 14-inch display, Intel Core i5 processor, 8GB RAM, 256GB SSD",
+    "Price": 1099.99,
+    "Tags": ["business", "enterprise", "durable", "security"],
+    "Category": "Laptops"
+  },
+  {
+    "Id": 4,
+    "Name": "ASUS ROG Zephyrus G14",
+    "Description": "Gaming laptop with 14-inch display, AMD Ryzen 9 processor, 32GB RAM, 1TB SSD, RTX 4060",
+    "Price": 1899.99,
+    "Tags": ["gaming", "high-performance", "portable", "rgb"],
+    "Category": "Laptops"
+  },
+  {
+    "Id": 5,
+    "Name": "Lenovo ThinkPad X1 Carbon",
+    "Description": "Lightweight business laptop with 14-inch display, Intel Core i7 processor, 16GB RAM, 512GB SSD",
+    "Price": 1699.99,
+    "Tags": ["business", "lightweight", "durable", "premium"],
+    "Category": "Laptops"
+  },
+  {
+    "Id": 6,
+    "Name": "LG UltraGear 27GL850",
+    "Description": "27-inch QHD gaming monitor with 144Hz refresh rate, 1ms response time, G-Sync compatible",
+    "Price": 449.99,
+    "Tags": ["gaming", "144hz", "qhd", "g-sync"],
+    "Category": "Monitors"
+  },
+  {
+    "Id": 7,
+    "Name": "Dell UltraSharp U2723QE",
+    "Description": "27-inch 4K USB-C hub monitor with IPS panel, 99% sRGB coverage, height adjustable stand",
+    "Price": 649.99,
+    "Tags": ["4k", "usb-c", "professional", "color-accurate"],
+    "Category": "Monitors"
+  },
+  {
+    "Id": 8,
+    "Name": "ASUS ProArt Display PA278CV",
+    "Description": "27-inch WQHD professional monitor with 100% sRGB, factory calibrated, USB-C connectivity",
+    "Price": 329.99,
+    "Tags": ["professional", "calibrated", "wqhd", "usb-c"],
+    "Category": "Monitors"
+  },
+  {
+    "Id": 9,
+    "Name": "Samsung Odyssey G7",
+    "Description": "32-inch curved gaming monitor with QLED, 240Hz refresh rate, 1ms response time",
+    "Price": 799.99,
+    "Tags": ["gaming", "curved", "240hz", "qled"],
+    "Category": "Monitors"
+  },
+  {
+    "Id": 10,
+    "Name": "BenQ PD3220U",
+    "Description": "32-inch 4K designer monitor with Thunderbolt 3, 95% P3 color space, KVM switch",
+    "Price": 1199.99,
+    "Tags": ["4k", "thunderbolt", "designer", "kvm"],
+    "Category": "Monitors"
+  },
+  {
+    "Id": 11,
+    "Name": "Corsair K95 RGB Platinum",
+    "Description": "Mechanical gaming keyboard with Cherry MX switches, RGB backlighting, dedicated macro keys",
+    "Price": 199.99,
+    "Tags": ["mechanical", "gaming", "rgb", "macro-keys"],
+    "Category": "Keyboards"
+  },
+  {
+    "Id": 12,
+    "Name": "Logitech MX Keys",
+    "Description": "Wireless illuminated keyboard with smart backlighting, multi-device connectivity",
+    "Price": 99.99,
+    "Tags": ["wireless", "illuminated", "productivity", "multi-device"],
+    "Category": "Keyboards"
+  },
+  {
+    "Id": 13,
+    "Name": "Keychron K2",
+    "Description": "Compact wireless mechanical keyboard with hot-swappable switches, RGB backlighting",
+    "Price": 89.99,
+    "Tags": ["mechanical", "wireless", "compact", "hot-swappable"],
+    "Category": "Keyboards"
+  },
+  {
+    "Id": 14,
+    "Name": "Das Keyboard 4 Professional",
+    "Description": "Premium mechanical keyboard with Cherry MX Blue switches, dedicated media controls",
+    "Price": 169.99,
+    "Tags": ["mechanical", "premium", "professional", "media-controls"],
+    "Category": "Keyboards"
+  },
+  {
+    "Id": 15,
+    "Name": "Razer DeathStalker V2 Pro",
+    "Description": "Low-profile wireless gaming keyboard with optical switches, RGB lighting",
+    "Price": 249.99,
+    "Tags": ["gaming", "wireless", "low-profile", "optical-switches"],
+    "Category": "Keyboards"
+  },
+  {
+    "Id": 16,
+    "Name": "Logitech MX Master 3S",
+    "Description": "Advanced wireless mouse with 8K DPI sensor, multi-device connectivity, MagSpeed scrolling",
+    "Price": 99.99,
+    "Tags": ["wireless", "productivity", "high-dpi", "multi-device"],
+    "Category": "Mouse"
+  },
+  {
+    "Id": 17,
+    "Name": "Razer DeathAdder V3",
+    "Description": "Ergonomic gaming mouse with 30K DPI sensor, 90-hour battery life, HyperSpeed wireless",
+    "Price": 99.99,
+    "Tags": ["gaming", "ergonomic", "high-dpi", "wireless"],
+    "Category": "Mouse"
+  },
+  {
+    "Id": 18,
+    "Name": "SteelSeries Rival 650",
+    "Description": "Dual sensor gaming mouse with TrueMove3+ sensor, customizable weight system, RGB lighting",
+    "Price": 89.99,
+    "Tags": ["gaming", "dual-sensor", "customizable-weight", "rgb"],
+    "Category": "Mouse"
+  },
+  {
+    "Id": 19,
+    "Name": "Microsoft Surface Precision Mouse",
+    "Description": "Bluetooth mouse with customizable buttons, scroll wheel, works on glass surfaces",
+    "Price": 99.99,
+    "Tags": ["bluetooth", "precision", "customizable", "glass-compatible"],
+    "Category": "Mouse"
+  },
+  {
+    "Id": 20,
+    "Name": "Corsair M65 RGB Elite",
+    "Description": "FPS gaming mouse with 18K DPI sensor, adjustable weight tuning, sniper button",
+    "Price": 59.99,
+    "Tags": ["gaming", "fps", "adjustable-weight", "sniper-button"],
+    "Category": "Mouse"
+  }
+]

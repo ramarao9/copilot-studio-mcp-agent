@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "mcp_server": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7260",
+      "launchBrowser": false
+    }
+  }
+}
