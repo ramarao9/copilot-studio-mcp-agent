@@ -3,11 +3,8 @@ using System.Text.Json;
 
 namespace RRK.Services;
 
-public interface IProductReviewService
-{
-    List<ProductReview> GetProductReviews(int productId);
-    List<ProductReview> GetAllProductReviews();
-}
+using RRK.Interfaces;
+
 
 public class ProductReviewService : IProductReviewService
 {

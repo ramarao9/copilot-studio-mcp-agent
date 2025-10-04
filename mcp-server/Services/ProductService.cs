@@ -1,19 +1,12 @@
-using System.Reflection;
-using System.Text.Json;
+
 
 namespace RRK.Services;
-
-public interface IProductService
-{
-    List<Product> GetAllProducts();
-}
+using System.Reflection;
+using System.Text.Json;
+using RRK.Interfaces;
 
 public class ProductService : IProductService
 {
-   
-
-
-
     public List<Product> GetAllProducts()
     {
         var path = Path.GetFullPath(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));

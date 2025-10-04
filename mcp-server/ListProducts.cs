@@ -3,7 +3,7 @@ using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Extensions.Mcp;
 using Microsoft.Extensions.Logging;
 using System.Text.Json;
-using RRK.Services;
+using RRK.Interfaces;
 
 namespace RRK.ListProducts;
 using static ToolsInformation;
