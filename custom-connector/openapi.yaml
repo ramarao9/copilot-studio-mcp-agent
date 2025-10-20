@@ -13,7 +13,7 @@ produces: []
 paths:
   /:
     post:
-      summary: Invoke Product MCP
+      summary: Product MCP Server
       x-ms-agentic-protocol: mcp-streamable-1.0
       operationId: InvokeMCP
       responses:
@@ -36,9 +36,17 @@ securityDefinitions:
     tokenUrl: https://login.windows.net/common/oauth2/authorize
     scopes:
       CLIENT_ID/.default: CLIENT_ID/.default
+  certOauth:
+    type: oauth2
+    flow: application
+    tokenUrl: 'https://login.windows.net/common/oauth2/authorize'
+    scopes:
+      CLIENT_ID/.default: CLIENT_ID/.default
 security:
   - oauth2-auth:
       - CLIENT_ID/.default
   - oAuthClientCredentials:
+      - CLIENT_ID/.default
+  - certOauth:
       - CLIENT_ID/.default
 tags: []
