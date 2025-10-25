@@ -9,8 +9,6 @@ var builder = FunctionsApplication.CreateBuilder(args);
 
 builder.ConfigureFunctionsWebApplication();
 
-Console.WriteLine("MCP Tool Metadata Enabled");
-builder.EnableMcpToolMetadata();
 
 builder.Services
     .AddApplicationInsightsTelemetryWorkerService()
